@@ -5,7 +5,7 @@ import {CardImg,CardGroup,CardBody,Card,CardTitle,CardText,CardSubtitle,Button} 
 // import logo3 from './prolin.png';
 import logo1 from './akar.png';
 import logo2 from './loga.png';
-import logo3 from './prolin';
+import logo3 from './prolin.png';
 
 export default function Produk() {
   return (
