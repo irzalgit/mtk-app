@@ -50,7 +50,7 @@ class App extends Component {
                     <Navbar.Collapse id="basic-navbar-nav">
                      <Nav className="me-auto">
                        <Nav.Link as ={Link} to={"/about"}>About</Nav.Link>
-                        <Nav.Link href="/Produk">Produk</Nav.Link>
+                        <Nav.Link as ={Link} to={"/produk"}>Produk</Nav.Link>
                        <NavDropdown title="Dropdown" id="basic-nav-dropdown">
                           <NavDropdown.Item as ={Link} to={"/math"}>Matematika</NavDropdown.Item>
                                 <NavDropdown.Item href="#action/31">Fisika</NavDropdown.Item>
