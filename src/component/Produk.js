@@ -1,8 +1,6 @@
 import React from 'react';
 import {CardImg,CardGroup,CardBody,Card,CardTitle,CardText,CardSubtitle,Button} from 'reactstrap';
-// import logo1 from './akar.png';
-// import logo2 from './loga.png';
-// import logo3 from './prolin.png';
+
 import logo1 from './akar.png';
 import logo2 from './loga.png';
 import logo3 from './prolin.png';
@@ -22,19 +20,19 @@ export default function Produk() {
     />
     <CardBody>
       <CardTitle tag="h5">
-        Card title
+        Bilangan berpangkat
       </CardTitle>
       <CardSubtitle
         className="mb-2 text-muted"
         tag="h6"
       >
-        Card subtitle
+        KD 3.1
       </CardSubtitle>
       <CardText>
-        This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
+        Akar
       </CardText>
       <Button>
-        Button
+        AKAR
       </Button>
     </CardBody>
   </Card>
@@ -47,19 +45,19 @@ export default function Produk() {
     />
     <CardBody>
       <CardTitle tag="h5">
-        Card title
+        Persamaan
       </CardTitle>
       <CardSubtitle
         className="mb-2 text-muted"
         tag="h6"
       >
-        Card subtitle
+        KD 3.4
       </CardSubtitle>
       <CardText>
-        This card has supporting text below as a natural lead-in to additional content.
+        PLDV
       </CardText>
       <Button>
-        Button
+        2 var
       </Button>
     </CardBody>
   </Card>
@@ -73,19 +71,19 @@ export default function Produk() {
     />
     <CardBody>
       <CardTitle tag="h5">
-        Card title
+        Program Linier
       </CardTitle>
       <CardSubtitle
         className="mb-2 text-muted"
         tag="h6"
       >
-        Card subtitle
+        KD 3.5
       </CardSubtitle>
       <CardText>
-        This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.
+        logaritma
       </CardText>
       <Button>
-        Button
+        prolin
       </Button>
     </CardBody>
   </Card>
