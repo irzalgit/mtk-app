@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zo-app/static/css/main.adbb1b47.chunk.css",
-    "main.js": "/zo-app/static/js/main.aa398462.chunk.js",
-    "main.js.map": "/zo-app/static/js/main.aa398462.chunk.js.map",
+    "main.js": "/zo-app/static/js/main.e7ff92e0.chunk.js",
+    "main.js.map": "/zo-app/static/js/main.e7ff92e0.chunk.js.map",
     "runtime-main.js": "/zo-app/static/js/runtime-main.e64b405d.js",
     "runtime-main.js.map": "/zo-app/static/js/runtime-main.e64b405d.js.map",
     "static/js/2.a3a1d0f9.chunk.js": "/zo-app/static/js/2.a3a1d0f9.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.e64b405d.js",
     "static/js/2.a3a1d0f9.chunk.js",
     "static/css/main.adbb1b47.chunk.css",
-    "static/js/main.aa398462.chunk.js"
+    "static/js/main.e7ff92e0.chunk.js"
   ]
 }
