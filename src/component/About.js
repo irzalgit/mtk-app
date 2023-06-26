@@ -22,6 +22,7 @@ export default function About() {
                         <Row>
                             <Col>
                                 <h1>Tentang Portal Peta Pikiran Bphy</h1>
+    <h1>update 25/6/23</h1>
                                 <p>
                                     <Button
                                         tag="a"
