@@ -21,7 +21,7 @@ export default function About() {
                     <Container>
                         <Row>
                             <Col>
-                                <h1>Welcome to Portal Peta Pikiran</h1>
+                                <h1>Tentang Bphy</h1>
                                 <p>
                                     <Button
                                         tag="a"
