@@ -8,7 +8,7 @@ import logo3 from './prolin.png';
 export default function Produk() {
   return (
     <div>
-      <h1>Produk</h1>
+      <h1>Produk Poster Mindmap</h1>
 
 <CardGroup>
   <Card>
