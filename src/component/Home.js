@@ -21,7 +21,7 @@ export default function Home() {
                     <Container>
                         <Row>
                             <Col>
-                                <h1>Welcome to Home Portal Peta Pikiran Bphy</h1>
+                                <h1>Welcome to Home Portal Peta Pikiran Bphy update 12/4/24</h1>
                                 <p>
                                     <Button
                                         tag="a"
